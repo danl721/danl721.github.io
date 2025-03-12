@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="static/styles/rss-stylesheet.xsl"?>
+<rss version="2.0">
+	<channel>
+		<!-- Channel Information -->
+
+		<title>Dan's Blog</title>
+
+		<link>danloudermilk.com</link>
+
+		<description>Stuff I remember from my life</description>
+
+		<language>en-US</language>
+
+		<copyright>Copyright (c) 2022 - Present, LebCit under the MIT License</copyright>
+
+		<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+
+		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
+
+		<docs>https://www.rssboard.org/rss-specification</docs>
+		
+		<!-- Items (Content) -->
+		
+		<item>
+			<title>Oklahoma City</title>
+
+			<link>danloudermilk.composts/oklahoma-city</link>
+
+			<description>Birth thru 5 years old?</description>
+			
+			<category domain="danloudermilk.comtags/Birth">Birth</category>
+				
+			<category domain="danloudermilk.comtags/Oklahoma City">Oklahoma City</category>
+				
+			<category domain="danloudermilk.comtags/Missing">Missing</category>
+				
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+		</item>
+		
+		<item>
+			<title>Tradgedy in OKC</title>
+
+			<link>danloudermilk.composts/tradgedy-in-okc</link>
+
+			<description>Learning a few early life lessons</description>
+			
+			<category domain="danloudermilk.comtags/Shocked">Shocked</category>
+				
+			<category domain="danloudermilk.comtags/Scared">Scared</category>
+				
+			<category domain="danloudermilk.comtags/Appendage">Appendage</category>
+				
+			<category domain="danloudermilk.comtags/5 years old?">5 years old?</category>
+				
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+		</item>
+		
+		<item>
+			<title>Who am I and why am I writing this blog?</title>
+
+			<link>danloudermilk.composts/what-is-blog-doc</link>
+
+			<description>A brief introduction to me</description>
+			
+			<category domain="danloudermilk.comtags/Blog-Doc">Blog-Doc</category>
+				
+			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+		</item>
+		
+	</channel>
+</rss>
